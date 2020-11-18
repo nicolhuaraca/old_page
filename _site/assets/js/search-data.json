@@ -1,0 +1,39 @@
+
+{
+  "1": {
+    "id": "1",
+    "title": "About",
+    "content": "I’m Nicol Huaraca, Bachelor in Economics, graduated from the Universidad Nacional Mayor de San Marcos. My main (research) interests are economic development and social research. In particular, to evaluate the impact of public policies and social programs, in order to determine whether there is really an improvement in quality of life indicators. I have developed several Stata, R, Julia and Python routines, all of which are available in my Git repo. I am also writing manuals about the use of data science tools and different software. You can find my CV here. I’ve collected much of my work in the research and resources sections of this website. You can contact me at nicol.huaraca@yahoo.com.",
+    "url": "http://localhost:4000/about",
+    "relUrl": "/about"
+  },
+  "2": {
+    "id": "2",
+    "title": "CV",
+    "content": "My CV is rendered below. You can also download it directly from here.",
+    "url": "http://localhost:4000/cv",
+    "relUrl": "/cv"
+  },
+  "3": {
+    "id": "3",
+    "title": "Home",
+    "content": "Welcome! I’m Nicol Huaraca, Bachelor in Economics, graduated from the Universidad Nacional Mayor de San Marcos. My main (research) interests are economic development and social research. In particular, to evaluate the impact of public policies and social programs, in order to determine whether there is really an improvement in quality of life indicators. In addition, I apply data analysis and machine learning to the data in the above-mentioned branches. You can find more information about me in the About section of this website. The Resources section serves as a repository of miscellaneous material that I’ve worked on over the years, while Posts collects brief blog-type posts I’ve made about various topics. Many of the projects that I’m working on (or not) are hosted on my Github repo, which also hosts most of the material listed in Resources. About this site This page is born for the motivation of contributing a grain of sand to the community and as a personal project in my way to the investigation. I hope you find something useful.",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },
+  "5": {
+    "id": "5",
+    "title": "Research",
+    "content": "Publications Working papers &amp; work in progress",
+    "url": "http://localhost:4000/research",
+    "relUrl": "/research"
+  },
+  "6": {
+    "id": "6",
+    "title": "Resources",
+    "content": "This page is a repository of resources of various types, collected in one place. These include software bits I’ve written (mostly R) and miscellaneous documents (mostly in spanish). Courses Gestión para el desarrollo en gobiernos subnacionales Planificación – Planificación orientada a resultados",
+    "url": "http://localhost:4000/resources",
+    "relUrl": "/resources"
+  }
+  
+}
